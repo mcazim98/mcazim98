@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 I’m currently working on a Golang RestFul Api project, to help me improve my coding skills in Golang.
 
 <!--
 **mcazim98/mcazim98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

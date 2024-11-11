@@ -7,9 +7,9 @@
 </a>
 <!--Intro start-->
 
-- I’m currently learning **to expand my skills in highly , scalable microservice development using Golang**
+- I’m currently learning **to expand my skills in highly scalable microservice development using Golang and Typescript**
 - I’m currently working on **Typescript, Mongodb, Python, Golang**
-- I've keen interest in cloud computing. So,I'm learning **Azure**
+- I've keen interest in cloud computing, with experience working with **AZURE** and building in house Linux servers to run automated tasks
 
 - Working at a hedgefund in Hong Kong 
 <!--Intro end-->
